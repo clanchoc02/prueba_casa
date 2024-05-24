@@ -16,6 +16,9 @@ public class transpuesta_error {
     }
  
     public static void main(String[] args) {
+
+        System.out.println("Hola Carlos")
+
         int A[][] = {{1, 1, 1, 1},
                 {2, 2, 2, 2},
                 {3, 3, 3, 3},
